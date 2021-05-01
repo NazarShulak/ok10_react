@@ -1,11 +1,12 @@
 import './App.css';
+import Posts from './components/posts/Posts';
 
 function App() {
-    return (
-        <div>
-
-        </div>
-    );
+	return (
+		<div>
+			<Posts/>
+		</div>
+	);
 }
 
 export default App;
